@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ankur Patel
 
-<!--
-**AnkurPatel712/Ankurpatel712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent MS in Cybersecurity graduate from Montclair State University, based in New Jersey. My goal is to begin my career as a SOC analyst in the New York/New Jersey area.
 
-Here are some ideas to get you started:
+I'm participating in the MyFirstHack internship and building my cybersecurity portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+* Security monitoring and alert investigation
+* SIEM tools and log analysis
+* Windows and Linux security fundamentals
+* Incident response and documentation
+
+## Projects
+
+I'll add project repositories and write-ups here as they are ready to share.
+
+## Learning Progress
+
+I'm following a 90-day SOC analyst roadmap and will use GitHub to document my notes, labs, and progress.
